@@ -1,4 +1,4 @@
-# Human-Emotion-Recognition
+# Facial Emotion Recognition System
 A desktop application written in Python for recognizing facial expressions.
 
 # Running
